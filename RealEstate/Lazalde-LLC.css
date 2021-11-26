@@ -1151,7 +1151,7 @@
 
 @media (max-width: 575px) {
   .u-section-6 .u-sheet-1 {
-    min-height: 642px;
+    min-height: 671px;
   }
 
   .u-section-6 .u-accordion-1 {
@@ -1314,8 +1314,18 @@
     margin-right: 50px;
   }
 
+  .u-section-7 .u-container-layout-2 {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
   .u-section-7 .u-image-2 {
     height: 190px;
+  }
+
+  .u-section-7 .u-text-5 {
+    margin-left: 50px;
+    margin-right: 50px;
   }
 
   .u-section-7 .u-carousel-control-1 {
